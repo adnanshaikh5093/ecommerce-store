@@ -32,13 +32,12 @@ cd client
 npm install
 npm run dev                 # http://localhost:5173
 ```
-
 Demo accounts after seeding:
 
 | Role  | Email             | Password |
 |-------|-------------------|----------|
 | Admin | admin@example.com | admin123 |
-| User  | user@example.com  | user123  |
+| User  | user@example.com  | user123  | 
 
 ## API overview
 
